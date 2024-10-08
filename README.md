@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hi there 👋
+## I'm an SUT student 👨‍🎓
+## I'm learning about computer science program 👨‍💻
 <!--
 **Marco64-bit/Marco64-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
